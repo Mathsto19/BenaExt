@@ -1,0 +1,4500 @@
+{
+  "imagens_unificadas.zip": [
+    {
+      "arquivo": "mbp_3d_medio_1731092855.0000000.png",
+      "data": "08/11/2024",
+      "id": "mbp",
+      "dedo": "Médio - Direita",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 17:26:08"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 17:26:08"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 17:26:08"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-18 17:26:08"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 17:26:08"
+        }
+      ]
+    },
+    {
+      "arquivo": "sds_4e_2_indic_1731100298.0000000.png",
+      "data": "08/11/2024",
+      "id": "sds",
+      "dedo": "Indicador - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:43:02"
+        },
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-20 10:43:02"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:43:02"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:43:02"
+        },
+        {
+          "nome": "Fora de Foco",
+          "descricao": "A digital está fora de foco.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-20 10:43:02"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_1d_mind_1703165843_1081526_frame_0000.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Mindinho - Direita",
+      "erros": [
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:12:26"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_2d_anel_1703165917_0821023_frame_0022.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Anelar - Direita",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 11:22:02"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_4d_indic_1703165690_0677896_frame_0000.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Indicador - Direita",
+      "erros": [
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-20 11:33:19"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_5d_dedao_1703165768_185232_frame_0099.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Dedão - Direita",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 11:52:24"
+        }
+      ]
+    },
+    {
+      "arquivo": "dcb_1d_mind_1731092870.0000000.png",
+      "data": "08/11/2024",
+      "id": "dcb",
+      "dedo": "Mindinho - Direita",
+      "erros": [
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-18 12:31:05"
+        },
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 12:31:05"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 12:31:05"
+        }
+      ]
+    },
+    {
+      "arquivo": "dcb_1e_mind_1731092870.0000000.png",
+      "data": "08/11/2024",
+      "id": "dcb",
+      "dedo": "Mindinho - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 12:32:08"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 12:32:08"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-18 12:32:08"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-18 12:32:08"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-18 12:32:08"
+        }
+      ]
+    },
+    {
+      "arquivo": "dcb_2d_anel_1731092862.0000000.png",
+      "data": "08/11/2024",
+      "id": "dcb",
+      "dedo": "Anelar - Direita",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 12:34:27"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 12:34:27"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-18 12:34:27"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 12:34:27"
+        }
+      ]
+    },
+    {
+      "arquivo": "dcb_2e_anel_1731092862.0000000.png",
+      "data": "08/11/2024",
+      "id": "dcb",
+      "dedo": "Anelar - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 12:36:19"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 12:36:19"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-18 12:36:19"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 12:36:19"
+        }
+      ]
+    },
+    {
+      "arquivo": "dcb_3d_medio_1731092855.0000000.png",
+      "data": "08/11/2024",
+      "id": "dcb",
+      "dedo": "Médio - Direita",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 12:37:21"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 12:37:21"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 12:37:21"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 12:37:21"
+        }
+      ]
+    },
+    {
+      "arquivo": "dcb_3e_medio_1731092855.0000000.png",
+      "data": "08/11/2024",
+      "id": "dcb",
+      "dedo": "Médio - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 12:38:23"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 12:38:23"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 12:38:23"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 12:38:23"
+        },
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-18 12:38:23"
+        }
+      ]
+    },
+    {
+      "arquivo": "dcb_4d_2_indic_1731100298.0000000.png",
+      "data": "08/11/2024",
+      "id": "dcb",
+      "dedo": "Indicador - Direita",
+      "erros": [
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 12:39:15"
+        },
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 12:39:15"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-18 12:39:15"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 12:39:15"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 12:39:15"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 12:39:15"
+        }
+      ]
+    },
+    {
+      "arquivo": "dcb_4d_indic_1731092839.0000000.png",
+      "data": "08/11/2024",
+      "id": "dcb",
+      "dedo": "Indicador - Direita",
+      "erros": [
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-18 12:40:30"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-18 12:40:30"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 12:40:30"
+        }
+      ]
+    },
+    {
+      "arquivo": "dcb_4e_2_indic_1731100298.0000000.png",
+      "data": "08/11/2024",
+      "id": "dcb",
+      "dedo": "Indicador - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 12:41:42"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 12:41:42"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 12:41:42"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 12:41:42"
+        },
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-18 12:41:42"
+        }
+      ]
+    },
+    {
+      "arquivo": "dcb_4e_indic_1731092839.0000000.png",
+      "data": "08/11/2024",
+      "id": "dcb",
+      "dedo": "Indicador - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 12:43:42"
+        },
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-18 12:43:42"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 12:43:42"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 12:43:42"
+        },
+        {
+          "nome": "Fora de Foco",
+          "descricao": "A digital está fora de foco.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-18 12:43:42"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 12:43:42"
+        }
+      ]
+    },
+    {
+      "arquivo": "dcb_5d_2_dedao_1731100298.0000000.png",
+      "data": "08/11/2024",
+      "id": "dcb",
+      "dedo": "Dedão - Direita",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-18 13:01:38"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-18 13:01:38"
+        }
+      ]
+    },
+    {
+      "arquivo": "dcb_5d_dedao_1731092813.0000000.png",
+      "data": "08/11/2024",
+      "id": "dcb",
+      "dedo": "Dedão - Direita",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-18 13:02:42"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-18 13:02:42"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-18 13:02:42"
+        }
+      ]
+    },
+    {
+      "arquivo": "dcb_5e_2_dedao_1731100298.0000000.png",
+      "data": "08/11/2024",
+      "id": "dcb",
+      "dedo": "Dedão - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 13:03:40"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 13:03:40"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-18 13:03:40"
+        }
+      ]
+    },
+    {
+      "arquivo": "dcb_5e_dedao_1731092813.0000000.png",
+      "data": "08/11/2024",
+      "id": "dcb",
+      "dedo": "Dedão - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 13:04:51"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 13:04:51"
+        },
+        {
+          "nome": "Fora de Foco",
+          "descricao": "A digital está fora de foco.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-18 13:04:51"
+        }
+      ]
+    },
+    {
+      "arquivo": "jam_1e_mind_1731092870.0000000.png",
+      "data": "08/11/2024",
+      "id": "jam",
+      "dedo": "Mindinho - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 13:05:42"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 13:05:42"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 13:05:42"
+        },
+        {
+          "nome": "Fora de Foco",
+          "descricao": "A digital está fora de foco.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 13:05:42"
+        }
+      ]
+    },
+    {
+      "arquivo": "jam_2e_anel_1731092862.0000000.png",
+      "data": "08/11/2024",
+      "id": "jam",
+      "dedo": "Anelar - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 13:06:27"
+        },
+        {
+          "nome": "Digital Clara",
+          "descricao": "A digital está muito clara.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 13:06:27"
+        },
+        {
+          "nome": "Fora de Foco",
+          "descricao": "A digital está fora de foco.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-18 13:06:27"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 13:06:27"
+        }
+      ]
+    },
+    {
+      "arquivo": "jam_3e_medio_1731092855.0000000.png",
+      "data": "08/11/2024",
+      "id": "jam",
+      "dedo": "Médio - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 13:07:24"
+        },
+        {
+          "nome": "Digital Clara",
+          "descricao": "A digital está muito clara.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-18 13:07:24"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 13:07:24"
+        }
+      ]
+    },
+    {
+      "arquivo": "jam_4e_2_indic_1731100277.0000000.png",
+      "data": "08/11/2024",
+      "id": "jam",
+      "dedo": "Indicador - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 13:43:51"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-18 13:43:51"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 13:43:51"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 13:43:51"
+        }
+      ]
+    },
+    {
+      "arquivo": "jam_4e_indic_1731092839.0000000.png",
+      "data": "08/11/2024",
+      "id": "jam",
+      "dedo": "Indicador - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 13:44:43"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 13:44:43"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 13:44:43"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-18 13:44:43"
+        }
+      ]
+    },
+    {
+      "arquivo": "jam_5e_2_dedao_1731100277.0000000.png",
+      "data": "08/11/2024",
+      "id": "jam",
+      "dedo": "Dedão - Esquerda",
+      "erros": [
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 13:45:34"
+        }
+      ]
+    },
+    {
+      "arquivo": "jam_5e_dedao_1731092813.0000000.png",
+      "data": "08/11/2024",
+      "id": "jam",
+      "dedo": "Dedão - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 16:05:28"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 16:05:28"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 16:05:28"
+        },
+        {
+          "nome": "Fora de Foco",
+          "descricao": "A digital está fora de foco.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-18 16:05:28"
+        }
+      ]
+    },
+    {
+      "arquivo": "jmm_1d_mind_1731092870.0000000.png",
+      "data": "08/11/2024",
+      "id": "jmm",
+      "dedo": "Mindinho - Direita",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 16:39:16"
+        },
+        {
+          "nome": "Digital Clara",
+          "descricao": "A digital está muito clara.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-18 16:39:16"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-18 16:39:16"
+        }
+      ]
+    },
+    {
+      "arquivo": "jmm_1e_mind_1731092870.0000000.png",
+      "data": "08/11/2024",
+      "id": "jmm",
+      "dedo": "Mindinho - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 16:39:57"
+        },
+        {
+          "nome": "Digital Clara",
+          "descricao": "A digital está muito clara.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 16:39:57"
+        }
+      ]
+    },
+    {
+      "arquivo": "jmm_2d_anel_1731092862.0000000.png",
+      "data": "08/11/2024",
+      "id": "jmm",
+      "dedo": "Anelar - Direita",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-18 16:41:33"
+        }
+      ]
+    },
+    {
+      "arquivo": "jmm_2e_anel_1731092862.0000000.png",
+      "data": "08/11/2024",
+      "id": "jmm",
+      "dedo": "Anelar - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-18 16:42:38"
+        },
+        {
+          "nome": "Digital Clara",
+          "descricao": "A digital está muito clara.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-18 16:42:38"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-18 16:42:38"
+        }
+      ]
+    },
+    {
+      "arquivo": "jmm_3d_medio_1731092855.0000000.png",
+      "data": "08/11/2024",
+      "id": "jmm",
+      "dedo": "Médio - Direita",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-18 16:43:37"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-18 16:43:37"
+        },
+        {
+          "nome": "Fora de Foco",
+          "descricao": "A digital está fora de foco.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-18 16:43:37"
+        }
+      ]
+    },
+    {
+      "arquivo": "jmm_3e_medio_1731092855.0000000.png",
+      "data": "08/11/2024",
+      "id": "jmm",
+      "dedo": "Médio - Esquerda",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-18 16:44:45"
+        }
+      ]
+    },
+    {
+      "arquivo": "jmm_4d_2_indic_1731100277.0000000.png",
+      "data": "08/11/2024",
+      "id": "jmm",
+      "dedo": "Indicador - Direita",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 16:45:39"
+        }
+      ]
+    },
+    {
+      "arquivo": "jmm_4d_indic_1731092839.0000000.png",
+      "data": "08/11/2024",
+      "id": "jmm",
+      "dedo": "Indicador - Direita",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 16:46:20"
+        }
+      ]
+    },
+    {
+      "arquivo": "jmm_4e_2_indic_1731100277.0000000.png",
+      "data": "08/11/2024",
+      "id": "jmm",
+      "dedo": "Indicador - Esquerda",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 16:47:06"
+        }
+      ]
+    },
+    {
+      "arquivo": "jmm_4e_indic_1731092839.0000000.png",
+      "data": "08/11/2024",
+      "id": "jmm",
+      "dedo": "Indicador - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-18 16:49:16"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 16:49:16"
+        }
+      ]
+    },
+    {
+      "arquivo": "jmm_5d_2_dedao_1731100277.0000000.png",
+      "data": "08/11/2024",
+      "id": "jmm",
+      "dedo": "Dedão - Direita",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-18 16:50:25"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-18 16:50:25"
+        }
+      ]
+    },
+    {
+      "arquivo": "jmm_5d_dedao_1731092813.0000000.png",
+      "data": "08/11/2024",
+      "id": "jmm",
+      "dedo": "Dedão - Direita",
+      "erros": [
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-18 16:50:49"
+        },
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-18 16:50:49"
+        }
+      ]
+    },
+    {
+      "arquivo": "jmm_5e_2_dedao_1731100277.0000000.png",
+      "data": "08/11/2024",
+      "id": "jmm",
+      "dedo": "Dedão - Esquerda",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 16:51:49"
+        }
+      ]
+    },
+    {
+      "arquivo": "jmm_5e_dedao_1731092813.0000000.png",
+      "data": "08/11/2024",
+      "id": "jmm",
+      "dedo": "Dedão - Esquerda",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 16:52:36"
+        }
+      ]
+    },
+    {
+      "arquivo": "mbp_1d_mind_1731092870.0000000.png",
+      "data": "08/11/2024",
+      "id": "mbp",
+      "dedo": "Mindinho - Direita",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 16:53:45"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 16:53:45"
+        },
+        {
+          "nome": "Fora de Foco",
+          "descricao": "A digital está fora de foco.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-18 16:53:45"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 16:53:45"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-18 16:53:45"
+        }
+      ]
+    },
+    {
+      "arquivo": "mbp_1e_mind_1731092870.0000000.png",
+      "data": "08/11/2024",
+      "id": "mbp",
+      "dedo": "Mindinho - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 16:54:47"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 16:54:47"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 16:54:47"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-18 16:54:47"
+        },
+        {
+          "nome": "Fora de Foco",
+          "descricao": "A digital está fora de foco.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-18 16:54:47"
+        }
+      ]
+    },
+    {
+      "arquivo": "mbp_2d_anel_1731092862.0000000.png",
+      "data": "08/11/2024",
+      "id": "mbp",
+      "dedo": "Anelar - Direita",
+      "erros": [
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 16:55:50"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 16:55:50"
+        },
+        {
+          "nome": "Fora de Foco",
+          "descricao": "A digital está fora de foco.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-18 16:55:50"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 16:55:50"
+        },
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 16:55:50"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-18 16:55:50"
+        }
+      ]
+    },
+    {
+      "arquivo": "mbp_2e_anel_1731092862.0000000.png",
+      "data": "08/11/2024",
+      "id": "mbp",
+      "dedo": "Anelar - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 16:56:36"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 16:56:36"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 16:56:36"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 16:56:36"
+        }
+      ]
+    },
+    {
+      "arquivo": "mbp_3e_medio_1731092855.0000000.png",
+      "data": "08/11/2024",
+      "id": "mbp",
+      "dedo": "Médio - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 17:26:52"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-18 17:26:52"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 17:26:52"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-18 17:26:52"
+        }
+      ]
+    },
+    {
+      "arquivo": "mbp_4d_2_indic_1731100277.0000000.png",
+      "data": "08/11/2024",
+      "id": "mbp",
+      "dedo": "Indicador - Direita",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-18 17:27:48"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 17:27:48"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-18 17:27:48"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-18 17:27:48"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-18 17:27:48"
+        }
+      ]
+    },
+    {
+      "arquivo": "mbp_4d_indic_1731092839.0000000.png",
+      "data": "08/11/2024",
+      "id": "mbp",
+      "dedo": "Indicador - Direita",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-18 17:31:26"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-18 17:31:26"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 17:31:26"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 17:31:26"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-18 17:31:26"
+        }
+      ]
+    },
+    {
+      "arquivo": "mbp_4e_2_indic_1731100277.0000000.png",
+      "data": "08/11/2024",
+      "id": "mbp",
+      "dedo": "Indicador - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-18 17:33:28"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 17:33:28"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 17:33:28"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 17:33:28"
+        }
+      ]
+    },
+    {
+      "arquivo": "mbp_4e_indic_1731092839.0000000.png",
+      "data": "08/11/2024",
+      "id": "mbp",
+      "dedo": "Indicador - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 17:34:20"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 17:34:20"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 17:34:20"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 17:34:20"
+        }
+      ]
+    },
+    {
+      "arquivo": "mbp_5d_2_dedao_1731100277.0000000.png",
+      "data": "08/11/2024",
+      "id": "mbp",
+      "dedo": "Dedão - Direita",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 17:35:11"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-18 17:35:11"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-18 17:35:11"
+        }
+      ]
+    },
+    {
+      "arquivo": "mbp_5d_dedao_1731092813.0000000.png",
+      "data": "08/11/2024",
+      "id": "mbp",
+      "dedo": "Dedão - Direita",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-18 17:36:02"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-18 17:36:02"
+        },
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-18 17:36:02"
+        }
+      ]
+    },
+    {
+      "arquivo": "mbp_5e_2_dedao_1731100277.0000000.png",
+      "data": "08/11/2024",
+      "id": "mbp",
+      "dedo": "Dedão - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-18 17:37:29"
+        },
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-18 17:37:29"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 17:37:29"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 17:37:29"
+        }
+      ]
+    },
+    {
+      "arquivo": "mbp_5e_dedao_1731092813.0000000.png",
+      "data": "08/11/2024",
+      "id": "mbp",
+      "dedo": "Dedão - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-18 17:38:24"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 17:38:24"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-18 17:38:24"
+        }
+      ]
+    },
+    {
+      "arquivo": "pg_1d_mind_1731092870.0000000.png",
+      "data": "08/11/2024",
+      "id": "pg",
+      "dedo": "Mindinho - Direita",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-18 17:39:25"
+        }
+      ]
+    },
+    {
+      "arquivo": "pg_1e_mind_1731092870.0000000.png",
+      "data": "08/11/2024",
+      "id": "pg",
+      "dedo": "Mindinho - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-18 17:41:54"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 17:41:54"
+        },
+        {
+          "nome": "Fora de Foco",
+          "descricao": "A digital está fora de foco.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-18 17:41:54"
+        }
+      ]
+    },
+    {
+      "arquivo": "pg_2d_anel_1731092862.0000000.png",
+      "data": "08/11/2024",
+      "id": "pg",
+      "dedo": "Anelar - Direita",
+      "erros": [
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 17:44:57"
+        },
+        {
+          "nome": "Fora de Foco",
+          "descricao": "A digital está fora de foco.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-18 17:44:57"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-18 17:44:57"
+        }
+      ]
+    },
+    {
+      "arquivo": "pg_2e_anel_1731092862.0000000.png",
+      "data": "08/11/2024",
+      "id": "pg",
+      "dedo": "Anelar - Esquerda",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 17:46:31"
+        }
+      ]
+    },
+    {
+      "arquivo": "pg_3d_medio_1731092855.0000000.png",
+      "data": "08/11/2024",
+      "id": "pg",
+      "dedo": "Médio - Direita",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 17:51:40"
+        }
+      ]
+    },
+    {
+      "arquivo": "pg_3e_medio_1731092855.0000000.png",
+      "data": "08/11/2024",
+      "id": "pg",
+      "dedo": "Médio - Esquerda",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-18 17:52:51"
+        }
+      ]
+    },
+    {
+      "arquivo": "pg_4d_2_indic_1731100277.0000000.png",
+      "data": "08/11/2024",
+      "id": "pg",
+      "dedo": "Indicador - Direita",
+      "erros": [
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 17:53:48"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 17:53:48"
+        },
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-18 17:53:48"
+        }
+      ]
+    },
+    {
+      "arquivo": "pg_4d_indic_1731092839.0000000.png",
+      "data": "08/11/2024",
+      "id": "pg",
+      "dedo": "Indicador - Direita",
+      "erros": [
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 17:54:41"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-18 17:54:41"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-18 17:54:41"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-18 17:54:41"
+        }
+      ]
+    },
+    {
+      "arquivo": "pg_4e_indic_1731092839.0000000.png",
+      "data": "08/11/2024",
+      "id": "pg",
+      "dedo": "Indicador - Esquerda",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-18 17:57:12"
+        }
+      ]
+    },
+    {
+      "arquivo": "pg_5d_2_dedao_1731100277.0000000.png",
+      "data": "08/11/2024",
+      "id": "pg",
+      "dedo": "Dedão - Direita",
+      "erros": [
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-18 17:58:04"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 17:58:04"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-18 17:58:04"
+        },
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-18 17:58:04"
+        }
+      ]
+    },
+    {
+      "arquivo": "pg_5d_dedao_1731092813.0000000.png",
+      "data": "08/11/2024",
+      "id": "pg",
+      "dedo": "Dedão - Direita",
+      "erros": [
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:19:31"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:19:31"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:19:31"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-20 10:19:31"
+        },
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-20 10:19:31"
+        }
+      ]
+    },
+    {
+      "arquivo": "pg_5e_2_dedao_1731100277.0000000.png",
+      "data": "08/11/2024",
+      "id": "pg",
+      "dedo": "Dedão - Esquerda",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:20:35"
+        }
+      ]
+    },
+    {
+      "arquivo": "pg_5e_dedao_1731092813.0000000.png",
+      "data": "08/11/2024",
+      "id": "pg",
+      "dedo": "Dedão - Esquerda",
+      "erros": [
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-20 10:21:42"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 10:21:42"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 10:21:42"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-20 10:21:42"
+        }
+      ]
+    },
+    {
+      "arquivo": "rsafp_1d_mind_1731092870.0000000.png",
+      "data": "08/11/2024",
+      "id": "rsafp",
+      "dedo": "Mindinho - Direita",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-20 10:22:57"
+        },
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-20 10:22:57"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 10:22:57"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 10:22:57"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:22:57"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 10:22:57"
+        }
+      ]
+    },
+    {
+      "arquivo": "rsafp_1e_mind_1731092870.0000000.png",
+      "data": "08/11/2024",
+      "id": "rsafp",
+      "dedo": "Mindinho - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-20 10:23:52"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:23:52"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:23:52"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:23:52"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:23:52"
+        }
+      ]
+    },
+    {
+      "arquivo": "rsafp_2d_anel_1731092862.0000000.png",
+      "data": "08/11/2024",
+      "id": "rsafp",
+      "dedo": "Anelar - Direita",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 10:25:00"
+        }
+      ]
+    },
+    {
+      "arquivo": "rsafp_2e_anel_1731092862.0000000.png",
+      "data": "08/11/2024",
+      "id": "rsafp",
+      "dedo": "Anelar - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 10:26:07"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:26:07"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 10:26:07"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:26:07"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-20 10:26:07"
+        }
+      ]
+    },
+    {
+      "arquivo": "rsafp_3d_medio_1731092855.0000000.png",
+      "data": "08/11/2024",
+      "id": "rsafp",
+      "dedo": "Médio - Direita",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:27:03"
+        }
+      ]
+    },
+    {
+      "arquivo": "rsafp_3e_medio_1731092855.0000000.png",
+      "data": "08/11/2024",
+      "id": "rsafp",
+      "dedo": "Médio - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-20 10:28:04"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:28:04"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:28:04"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:28:04"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:28:04"
+        }
+      ]
+    },
+    {
+      "arquivo": "rsafp_4d_2_indic_1731099479.0000000.png",
+      "data": "08/11/2024",
+      "id": "rsafp",
+      "dedo": "Indicador - Direita",
+      "erros": [
+        {
+          "nome": "Fora de Foco",
+          "descricao": "A digital está fora de foco.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 10:29:11"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 10:29:11"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-20 10:29:11"
+        }
+      ]
+    },
+    {
+      "arquivo": "rsafp_4d_indic_1731092839.0000000.png",
+      "data": "08/11/2024",
+      "id": "rsafp",
+      "dedo": "Indicador - Direita",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 10:30:12"
+        },
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-20 10:30:12"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:30:12"
+        },
+        {
+          "nome": "Digital Clara",
+          "descricao": "A digital está muito clara.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-20 10:30:12"
+        }
+      ]
+    },
+    {
+      "arquivo": "rsafp_4e_2_indic_1731099479.0000000.png",
+      "data": "08/11/2024",
+      "id": "rsafp",
+      "dedo": "Indicador - Esquerda",
+      "erros": [
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:30:54"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:30:54"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:30:54"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:30:54"
+        }
+      ]
+    },
+    {
+      "arquivo": "rsafp_4e_indic_1731092839.0000000.png",
+      "data": "08/11/2024",
+      "id": "rsafp",
+      "dedo": "Indicador - Esquerda",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:32:01"
+        }
+      ]
+    },
+    {
+      "arquivo": "rsafp_5d_2_dedao_1731099479.0000000.png",
+      "data": "08/11/2024",
+      "id": "rsafp",
+      "dedo": "Dedão - Direita",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:32:50"
+        }
+      ]
+    },
+    {
+      "arquivo": "rsafp_5d_dedao_1731092813.0000000.png",
+      "data": "08/11/2024",
+      "id": "rsafp",
+      "dedo": "Dedão - Direita",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:33:57"
+        }
+      ]
+    },
+    {
+      "arquivo": "rsafp_5e_2_dedao_1731099479.0000000.png",
+      "data": "08/11/2024",
+      "id": "rsafp",
+      "dedo": "Dedão - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-20 10:34:48"
+        },
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-20 10:34:48"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:34:48"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:34:48"
+        },
+        {
+          "nome": "Fora de Foco",
+          "descricao": "A digital está fora de foco.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-20 10:34:48"
+        }
+      ]
+    },
+    {
+      "arquivo": "rsafp_5e_dedao_1731092813.0000000.png",
+      "data": "08/11/2024",
+      "id": "rsafp",
+      "dedo": "Dedão - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-20 10:35:30"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:35:30"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:35:30"
+        }
+      ]
+    },
+    {
+      "arquivo": "sds_1d_mind_1731092870.0000000.png",
+      "data": "08/11/2024",
+      "id": "sds",
+      "dedo": "Mindinho - Direita",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:36:41"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 10:36:41"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:36:41"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:36:41"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:36:41"
+        },
+        {
+          "nome": "Fora de Foco",
+          "descricao": "A digital está fora de foco.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-20 10:36:41"
+        }
+      ]
+    },
+    {
+      "arquivo": "sds_1e_mind_1731092870.0000000.png",
+      "data": "08/11/2024",
+      "id": "sds",
+      "dedo": "Mindinho - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:37:30"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:37:30"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:37:30"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:37:30"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-20 10:37:30"
+        }
+      ]
+    },
+    {
+      "arquivo": "sds_2d_anel_1731092862.0000000.png",
+      "data": "08/11/2024",
+      "id": "sds",
+      "dedo": "Anelar - Direita",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:38:16"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:38:16"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-20 10:38:16"
+        },
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-20 10:38:16"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:38:16"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:38:16"
+        }
+      ]
+    },
+    {
+      "arquivo": "sds_2e_anel_1731092862.0000000.png",
+      "data": "08/11/2024",
+      "id": "sds",
+      "dedo": "Anelar - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:39:03"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:39:03"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:39:03"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:39:03"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-20 10:39:03"
+        },
+        {
+          "nome": "Fora de Foco",
+          "descricao": "A digital está fora de foco.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-20 10:39:03"
+        }
+      ]
+    },
+    {
+      "arquivo": "sds_3d_medio_1731092855.0000000.png",
+      "data": "08/11/2024",
+      "id": "sds",
+      "dedo": "Médio - Direita",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:40:02"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-20 10:40:02"
+        },
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-20 10:40:02"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:40:02"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:40:02"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:40:02"
+        }
+      ]
+    },
+    {
+      "arquivo": "sds_3e_medio_1731092855.0000000.png",
+      "data": "08/11/2024",
+      "id": "sds",
+      "dedo": "Médio - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:40:55"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:40:55"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:40:55"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 10:40:55"
+        }
+      ]
+    },
+    {
+      "arquivo": "sds_4d_2_indic_1731100298.0000000.png",
+      "data": "08/11/2024",
+      "id": "sds",
+      "dedo": "Indicador - Direita",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:41:43"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:41:43"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:41:43"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:41:43"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:41:43"
+        }
+      ]
+    },
+    {
+      "arquivo": "sds_4d_indic_1731092839.0000000.png",
+      "data": "08/11/2024",
+      "id": "sds",
+      "dedo": "Indicador - Direita",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:42:18"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:42:18"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:42:18"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:42:18"
+        }
+      ]
+    },
+    {
+      "arquivo": "sds_4e_indic_1731092839.0000000.png",
+      "data": "08/11/2024",
+      "id": "sds",
+      "dedo": "Indicador - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:43:52"
+        },
+        {
+          "nome": "Fora de Foco",
+          "descricao": "A digital está fora de foco.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 10:43:52"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:43:52"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:43:52"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-20 10:43:52"
+        }
+      ]
+    },
+    {
+      "arquivo": "sds_5d_2_dedao_1731100298.0000000.png",
+      "data": "08/11/2024",
+      "id": "sds",
+      "dedo": "Dedão - Direita",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:44:38"
+        },
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-20 10:44:38"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:44:38"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:44:38"
+        }
+      ]
+    },
+    {
+      "arquivo": "sds_5d_dedao_1731092813.0000000.png",
+      "data": "08/11/2024",
+      "id": "sds",
+      "dedo": "Dedão - Direita",
+      "erros": [
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:45:34"
+        }
+      ]
+    },
+    {
+      "arquivo": "sds_5e_2_dedao_1731100298.0000000.png",
+      "data": "08/11/2024",
+      "id": "sds",
+      "dedo": "Dedão - Esquerda",
+      "erros": [
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:46:14"
+        }
+      ]
+    },
+    {
+      "arquivo": "sds_5e_dedao_1731092813.0000000.png",
+      "data": "08/11/2024",
+      "id": "sds",
+      "dedo": "Dedão - Esquerda",
+      "erros": [
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:47:03"
+        }
+      ]
+    },
+    {
+      "arquivo": "ss_1d_mind_1731092870.0000000.png",
+      "data": "08/11/2024",
+      "id": "ss",
+      "dedo": "Mindinho - Direita",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:47:39"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:47:39"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:47:39"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:47:39"
+        }
+      ]
+    },
+    {
+      "arquivo": "ss_1e_mind_1731092870.0000000.png",
+      "data": "08/11/2024",
+      "id": "ss",
+      "dedo": "Mindinho - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:48:20"
+        },
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-20 10:48:20"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:48:20"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 10:48:20"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:48:20"
+        }
+      ]
+    },
+    {
+      "arquivo": "ss_2d_anel_1731092862.0000000.png",
+      "data": "08/11/2024",
+      "id": "ss",
+      "dedo": "Anelar - Direita",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:49:14"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 10:49:14"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:49:14"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:49:14"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 10:49:14"
+        }
+      ]
+    },
+    {
+      "arquivo": "ss_2e_anel_1731092862.0000000.png",
+      "data": "08/11/2024",
+      "id": "ss",
+      "dedo": "Anelar - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:50:21"
+        },
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-20 10:50:21"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-20 10:50:21"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:50:21"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:50:21"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 10:50:21"
+        }
+      ]
+    },
+    {
+      "arquivo": "ss_3d_medio_1731092855.0000000.png",
+      "data": "08/11/2024",
+      "id": "ss",
+      "dedo": "Médio - Direita",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:51:04"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-20 10:51:04"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 10:51:04"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:51:04"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:51:04"
+        }
+      ]
+    },
+    {
+      "arquivo": "ss_3e_medio_1731092855.0000000.png",
+      "data": "08/11/2024",
+      "id": "ss",
+      "dedo": "Médio - Esquerda",
+      "erros": [
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:51:43"
+        }
+      ]
+    },
+    {
+      "arquivo": "ss_4d_2_indic_1731099479.0000000.png",
+      "data": "08/11/2024",
+      "id": "ss",
+      "dedo": "Indicador - Direita",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:52:17"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:52:17"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:52:17"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-20 10:52:17"
+        }
+      ]
+    },
+    {
+      "arquivo": "ss_4d_indic_1731092839.0000000.png",
+      "data": "08/11/2024",
+      "id": "ss",
+      "dedo": "Indicador - Direita",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:52:53"
+        },
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-20 10:52:53"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 10:52:53"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:52:53"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:52:53"
+        }
+      ]
+    },
+    {
+      "arquivo": "ss_4e_2_indic_1731099479.0000000.png",
+      "data": "08/11/2024",
+      "id": "ss",
+      "dedo": "Indicador - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:53:28"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:53:28"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:53:28"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:53:28"
+        }
+      ]
+    },
+    {
+      "arquivo": "ss_4e_indic_1731092839.0000000.png",
+      "data": "08/11/2024",
+      "id": "ss",
+      "dedo": "Indicador - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:54:13"
+        },
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-20 10:54:13"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 10:54:13"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:54:13"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:54:13"
+        }
+      ]
+    },
+    {
+      "arquivo": "ss_5d_2_dedao_1731099479.0000000.png",
+      "data": "08/11/2024",
+      "id": "ss",
+      "dedo": "Dedão - Direita",
+      "erros": [
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-20 10:54:45"
+        },
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:54:45"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:54:45"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:54:45"
+        }
+      ]
+    },
+    {
+      "arquivo": "ss_5d_dedao_1731092813.0000000.png",
+      "data": "08/11/2024",
+      "id": "ss",
+      "dedo": "Dedão - Direita",
+      "erros": [
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:55:19"
+        },
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:55:19"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-20 10:55:19"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:55:19"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:55:19"
+        }
+      ]
+    },
+    {
+      "arquivo": "ss_5e_2_dedao_1731099479.0000000.png",
+      "data": "08/11/2024",
+      "id": "ss",
+      "dedo": "Dedão - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:55:54"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-20 10:55:54"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:55:54"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:55:54"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-20 10:55:54"
+        }
+      ]
+    },
+    {
+      "arquivo": "ss_5e_dedao_1731092813.0000000.png",
+      "data": "08/11/2024",
+      "id": "ss",
+      "dedo": "Dedão - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:56:42"
+        },
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-20 10:56:42"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:56:42"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:56:42"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:56:42"
+        }
+      ]
+    },
+    {
+      "arquivo": "vdr_1d_mind_1731092870.0000000.png",
+      "data": "08/11/2024",
+      "id": "vdr",
+      "dedo": "Mindinho - Direita",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 10:57:26"
+        },
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-20 10:57:26"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 10:57:26"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:57:26"
+        }
+      ]
+    },
+    {
+      "arquivo": "vdr_1e_mind_1731092870.0000000.png",
+      "data": "08/11/2024",
+      "id": "vdr",
+      "dedo": "Mindinho - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 10:58:11"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:58:11"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 10:58:11"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 10:58:11"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:58:11"
+        }
+      ]
+    },
+    {
+      "arquivo": "vdr_2d_anel_1731092862.0000000.png",
+      "data": "08/11/2024",
+      "id": "vdr",
+      "dedo": "Anelar - Direita",
+      "erros": [
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:59:43"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 10:59:43"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 10:59:43"
+        },
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-20 10:59:43"
+        }
+      ]
+    },
+    {
+      "arquivo": "vdr_2e_anel_1731092862.0000000.png",
+      "data": "08/11/2024",
+      "id": "vdr",
+      "dedo": "Anelar - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-20 11:00:39"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:00:39"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 11:00:39"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 11:00:39"
+        }
+      ]
+    },
+    {
+      "arquivo": "vdr_3d_medio_1731092855.0000000.png",
+      "data": "08/11/2024",
+      "id": "vdr",
+      "dedo": "Médio - Direita",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-20 11:02:07"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 11:02:07"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 11:02:07"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:02:07"
+        }
+      ]
+    },
+    {
+      "arquivo": "vdr_3e_medio_1731092855.0000000.png",
+      "data": "08/11/2024",
+      "id": "vdr",
+      "dedo": "Médio - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 11:02:57"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:02:57"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 11:02:57"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:02:57"
+        }
+      ]
+    },
+    {
+      "arquivo": "vdr_4d_2_indic_1731100298.0000000.png",
+      "data": "08/11/2024",
+      "id": "vdr",
+      "dedo": "Indicador - Direita",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:03:40"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-20 11:03:40"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:03:40"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 11:03:40"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:03:40"
+        }
+      ]
+    },
+    {
+      "arquivo": "vdr_4d_indic_1731092839.0000000.png",
+      "data": "08/11/2024",
+      "id": "vdr",
+      "dedo": "Indicador - Direita",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:04:26"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-20 11:04:26"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:04:26"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:04:26"
+        }
+      ]
+    },
+    {
+      "arquivo": "vdr_4e_2_indic_1731100298.0000000.png",
+      "data": "08/11/2024",
+      "id": "vdr",
+      "dedo": "Indicador - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-20 11:06:25"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:06:25"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:06:25"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 11:06:25"
+        }
+      ]
+    },
+    {
+      "arquivo": "vdr_4e_indic_1731092839.0000000.png",
+      "data": "08/11/2024",
+      "id": "vdr",
+      "dedo": "Indicador - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 11:07:14"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 11:07:14"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 11:07:14"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 11:07:14"
+        }
+      ]
+    },
+    {
+      "arquivo": "vdr_5d_2_dedao_1731100298.0000000.png",
+      "data": "08/11/2024",
+      "id": "vdr",
+      "dedo": "Dedão - Direita",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:08:00"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 11:08:00"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 11:08:00"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:08:00"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 11:08:00"
+        }
+      ]
+    },
+    {
+      "arquivo": "vdr_5d_dedao_1731092813.0000000.png",
+      "data": "08/11/2024",
+      "id": "vdr",
+      "dedo": "Dedão - Direita",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-20 11:10:04"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:10:04"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 11:10:04"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 11:10:04"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-20 11:10:04"
+        }
+      ]
+    },
+    {
+      "arquivo": "vdr_5e_2_dedao_1731100298.0000000.png",
+      "data": "08/11/2024",
+      "id": "vdr",
+      "dedo": "Dedão - Esquerda",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 11:10:55"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:10:55"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:10:55"
+        }
+      ]
+    },
+    {
+      "arquivo": "vdr_5e_dedao_1731092813.0000000.png",
+      "data": "08/11/2024",
+      "id": "vdr",
+      "dedo": "Dedão - Esquerda",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 11:11:48"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_1d_mind_1703165843_1081526_frame_0001.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Mindinho - Direita",
+      "erros": [
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:12:36"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_1d_mind_1703165843_1081526_frame_0002.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Mindinho - Direita",
+      "erros": [
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:12:45"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_1d_mind_1703165843_1081526_frame_0003.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Mindinho - Direita",
+      "erros": [
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:12:54"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_1d_mind_1703165843_1081526_frame_0004.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Mindinho - Direita",
+      "erros": [
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:13:02"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_1d_mind_1703165843_1081526_frame_0005.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Mindinho - Direita",
+      "erros": [
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:13:14"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_1d_mind_1703165843_1081526_frame_0006.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Mindinho - Direita",
+      "erros": [
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:13:25"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_1d_mind_1703165843_1081526_frame_0007.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Mindinho - Direita",
+      "erros": [
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:13:32"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_1d_mind_1703165843_1081526_frame_0008.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Mindinho - Direita",
+      "erros": [
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:13:50"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_1d_mind_1703165843_1081526_frame_0009.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Mindinho - Direita",
+      "erros": [
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:14:00"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_1d_mind_1703165866_398926_frame_0000.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Mindinho - Direita",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 11:14:41"
+        },
+        {
+          "nome": "Digital Clara",
+          "descricao": "A digital está muito clara.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-20 11:14:41"
+        },
+        {
+          "nome": "Fora de Foco",
+          "descricao": "A digital está fora de foco.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 11:14:41"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_1d_mind_1703165866_398926_frame_0011.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Mindinho - Direita",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:15:23"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_1d_mind_1703165866_398926_frame_0022.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Mindinho - Direita",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:15:56"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_1d_mind_1703165866_398926_frame_0033.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Mindinho - Direita",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 11:16:34"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_1d_mind_1703165866_398926_frame_0044.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Mindinho - Direita",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 11:17:52"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_1d_mind_1703165866_398926_frame_0055.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Mindinho - Direita",
+      "erros": [
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:18:25"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_1d_mind_1703165866_398926_frame_0066.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Mindinho - Direita",
+      "erros": [
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:18:36"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_1d_mind_1703165866_398926_frame_0077.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Mindinho - Direita",
+      "erros": [
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:18:45"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_1d_mind_1703165866_398926_frame_0088.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Mindinho - Direita",
+      "erros": [
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:18:53"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_1d_mind_1703165866_398926_frame_0099.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Mindinho - Direita",
+      "erros": [
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:19:03"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_2d_anel_1703165917_0821023_frame_0000.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Anelar - Direita",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 11:19:47"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_2d_anel_1703165917_0821023_frame_0011.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Anelar - Direita",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 11:21:17"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_2d_anel_1703165917_0821023_frame_0033.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Anelar - Direita",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:23:30"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_2d_anel_1703165917_0821023_frame_0044.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Anelar - Direita",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:24:19"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_2d_anel_1703165917_0821023_frame_0055.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Anelar - Direita",
+      "erros": [
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:24:36"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_2d_anel_1703165917_0821023_frame_0066.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Anelar - Direita",
+      "erros": [
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:24:48"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_2d_anel_1703165917_0821023_frame_0077.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Anelar - Direita",
+      "erros": [
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:25:03"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_2d_anel_1703165917_0821023_frame_0088.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Anelar - Direita",
+      "erros": [
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:25:19"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_2d_anel_1703165917_0821023_frame_0099.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Anelar - Direita",
+      "erros": [
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:25:30"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_3d_medio_1703165959_167844_frame_0000.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Médio - Direita",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:26:54"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_3d_medio_1703165959_167844_frame_0011.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Médio - Direita",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 11:28:05"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_3d_medio_1703165959_167844_frame_0022.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Médio - Direita",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 11:29:02"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_3d_medio_1703165959_167844_frame_0033.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Médio - Direita",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 11:29:54"
+        },
+        {
+          "nome": "Fiapos na Digital",
+          "descricao": "Existem fiapos entre as cristas.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-20 11:29:54"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-20 11:29:54"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 11:29:54"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-20 11:29:54"
+        },
+        {
+          "nome": "Fora de Foco",
+          "descricao": "A digital está fora de foco.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-20 11:29:54"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_3d_medio_1703165959_167844_frame_0044.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Médio - Direita",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:31:01"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_3d_medio_1703165959_167844_frame_0055.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Médio - Direita",
+      "erros": [
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 11:31:49"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 11:31:49"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 11:31:49"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_3d_medio_1703165959_167844_frame_0066.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Médio - Direita",
+      "erros": [
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:32:03"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_3d_medio_1703165959_167844_frame_0077.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Médio - Direita",
+      "erros": [
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:32:19"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_3d_medio_1703165959_167844_frame_0088.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Médio - Direita",
+      "erros": [
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:32:32"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_3d_medio_1703165959_167844_frame_0099.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Médio - Direita",
+      "erros": [
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:32:43"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_4d_indic_1703165690_0677896_frame_0011.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Indicador - Direita",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 11:33:59"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_4d_indic_1703165690_0677896_frame_0022.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Indicador - Direita",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 11:34:47"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_4d_indic_1703165690_0677896_frame_0033.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Indicador - Direita",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 11:35:40"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_4d_indic_1703165690_0677896_frame_0044.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Indicador - Direita",
+      "erros": [
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 11:36:32"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 11:36:32"
+        },
+        {
+          "nome": "Fora de Foco",
+          "descricao": "A digital está fora de foco.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-20 11:36:32"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 11:36:32"
+        },
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-20 11:36:32"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_4d_indic_1703165690_0677896_frame_0055.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Indicador - Direita",
+      "erros": [
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 11:37:04"
+        },
+        {
+          "nome": "Fora de Foco",
+          "descricao": "A digital está fora de foco.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 11:37:04"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 11:37:04"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-20 11:37:04"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_4d_indic_1703165690_0677896_frame_0066.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Indicador - Direita",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 11:37:50"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_4d_indic_1703165690_0677896_frame_0077.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Indicador - Direita",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 11:38:59"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_4d_indic_1703165690_0677896_frame_0088.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Indicador - Direita",
+      "erros": [
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 11:39:35"
+        },
+        {
+          "nome": "Fora de Foco",
+          "descricao": "A digital está fora de foco.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-20 11:39:35"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 11:39:35"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-20 11:39:35"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_4d_indic_1703165690_0677896_frame_0099.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Indicador - Direita",
+      "erros": [
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 11:40:15"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-20 11:40:15"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_5d_dedao_1703165768_185232_frame_0000.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Dedão - Direita",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 11:40:59"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_5d_dedao_1703165768_185232_frame_0011.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Dedão - Direita",
+      "erros": [
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-20 11:46:23"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-20 11:46:23"
+        },
+        {
+          "nome": "Digital Clara",
+          "descricao": "A digital está muito clara.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-20 11:46:23"
+        },
+        {
+          "nome": "Fora de Foco",
+          "descricao": "A digital está fora de foco.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 11:46:23"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_5d_dedao_1703165768_185232_frame_0022.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Dedão - Direita",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 11:47:10"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_5d_dedao_1703165768_185232_frame_0033.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Dedão - Direita",
+      "erros": [
+        {
+          "nome": "Fora de Foco",
+          "descricao": "A digital está fora de foco.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-20 11:47:53"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 11:47:53"
+        },
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 11:47:53"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_5d_dedao_1703165768_185232_frame_0044.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Dedão - Direita",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 11:48:41"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_5d_dedao_1703165768_185232_frame_0055.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Dedão - Direita",
+      "erros": [
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 11:49:28"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-20 11:49:28"
+        },
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 11:49:28"
+        },
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-20 11:49:28"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_5d_dedao_1703165768_185232_frame_0066.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Dedão - Direita",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:50:07"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_5d_dedao_1703165768_185232_frame_0077.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Dedão - Direita",
+      "erros": [
+        {
+          "nome": "Dedo Fora da Área",
+          "descricao": "Parte da digital ficou fora da área de captura.",
+          "avaliacao": 4,
+          "timestamp": "2026-05-20 11:50:52"
+        },
+        {
+          "nome": "Sem Padrão Visível",
+          "descricao": "A digital não tem padrão reconhecível.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 11:50:52"
+        },
+        {
+          "nome": "Digital Escura",
+          "descricao": "A digital está muito escura.",
+          "avaliacao": 3,
+          "timestamp": "2026-05-20 11:50:52"
+        },
+        {
+          "nome": "Fora de Foco",
+          "descricao": "A digital está fora de foco.",
+          "avaliacao": 2,
+          "timestamp": "2026-05-20 11:50:52"
+        },
+        {
+          "nome": "Manchas na Digital",
+          "descricao": "Existem manchas entre as cristas.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:50:52"
+        },
+        {
+          "nome": "Scanner Sujo",
+          "descricao": "O scanner está sujo.",
+          "avaliacao": 1,
+          "timestamp": "2026-05-20 11:50:52"
+        }
+      ]
+    },
+    {
+      "arquivo": "tec_5d_dedao_1703165768_185232_frame_0088.png",
+      "data": "21/12/2023",
+      "id": "tec",
+      "dedo": "Dedão - Direita",
+      "erros": [
+        {
+          "nome": "Segmentação Boa",
+          "descricao": "A Segmentação ficou excelente, poucos erros aparentes.",
+          "avaliacao": 5,
+          "timestamp": "2026-05-20 11:51:29"
+        }
+      ]
+    }
+  ]
+}
