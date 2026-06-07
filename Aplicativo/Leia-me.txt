@@ -1,0 +1,8 @@
+BenaExt - Aplicativo Windows
+
+Execute BenaExt.exe para abrir o programa.
+
+IMPORTANTE:
+BenaExt.exe ja inclui os recursos necessarios.
+
+Manual completo: README.md

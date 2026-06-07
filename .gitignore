@@ -1,0 +1,30 @@
+__pycache__/
+*.py[cod]
+*.pyo
+
+.venv/
+venv/
+env/
+
+build/
+dist/
+*.spec
+
+*.log
+*.state
+**/BenaExt Log.state
+
+Gerar Software BenaExt/venv/
+Gerar Software BenaExt/build/
+Gerar Software BenaExt/dist/
+Gerar Software BenaExt/__pycache__/
+!Gerar Software BenaExt/BenaExt.spec
+
+# Arquivo local grande demais para GitHub comum.
+Codigo Fonte/Parte Unificada com ajustes/imagens_unificadas.zip
+
+# Saidas comuns geradas pela interface.
+BenaExt Resultados.csv
+BenaExt Comparacao.json
+BenaExt Relatorio.pdf
+benaext_relatorio.html

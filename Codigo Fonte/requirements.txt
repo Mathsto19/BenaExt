@@ -1,0 +1,2 @@
+pywebview[qt]==6.2.1
+pillow==12.2.0
